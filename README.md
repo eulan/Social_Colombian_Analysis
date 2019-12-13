@@ -9,5 +9,5 @@ Con respecto a la tasa de maltrato, en mujeres esta tasa supera por mucho a la d
 En este análisis se usaron, métodos de fitting y no supervisados, extrayendo aspecto importantes de la geometría interna de los datos, y una caraterización detallada, de las similitudes entre grupos dentro de la socidad Colombiana. Los datos fueron extraídos de eventos ocurridos en el 2015 (URL: https://lnkd.in/dQtBvNY), y el Agglomerative Clustering fue hecho con el método "Ward" y con una métrica típica euclideana.
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/index.png" align=middle width=700pt height=500pt/></p>
-_____________________________________________________________________________________________________
+____________________________________________________________________________________________
 <h3> Violencia de Pareja 2015 </h3>
