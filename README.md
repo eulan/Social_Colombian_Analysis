@@ -22,4 +22,4 @@ ________________________________________________________________________________
 
 Visualización  de los lugares más contaminados del País. El material, con un aporte más importante es el PM10, el cual afecta directamente la salud, produciendo enfermedades cardíacas o pulmonares. Datos extraídos de: "https://lnkd.in/eD4vZKr".  
 
-
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/folium.png"  align=middle width=700pt height=500pt/></p>
