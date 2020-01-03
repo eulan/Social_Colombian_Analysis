@@ -17,3 +17,9 @@ La trata de personas es una problemática que se sigue presentando en nuestra Co
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/trata_ext.png" align=middle width=700pt height=500pt/></p>
 ____________________________________________________________________________________________
+<h3> Sobre las zonas contaminandas de Colombia </h3>
+
+
+Visualización  de los lugares más contaminados del País. El material, con un aporte más importante es el PM10, el cual afecta directamente la salud, produciendo enfermedades cardíacas o pulmonares. Datos extraídos de: "https://lnkd.in/eD4vZKr".  
+
+
