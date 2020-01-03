@@ -35,3 +35,11 @@ Con respecto a las poblaciones, el sector publico tiende a dar empleo con mayor 
 La contratación ocurre con mayor frecuencia en las alcaldías, concejos y personerías, como entidades municipales es de esperar, siendo Bogotá, el de mayor demanda y mejor salario.
 
 Esta información es respecto a la caracterización de los servidores públicos registrados en SIGEP de la Rama Ejecutiva Orden Nacional (https://lnkd.in/dDqPbXY).
+
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c1.png" align=middle width=400pt height=500pt/></p>
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c2.png" align=middle width=400pt height=500pt/></p>
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c3.png" align=middle width=400pt height=500pt/></p>
+
