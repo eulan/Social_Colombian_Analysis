@@ -23,3 +23,15 @@ ________________________________________________________________________________
 Visualización  de los lugares más contaminados del País. El material, con un aporte más importante es el PM10, el cual afecta directamente la salud, produciendo enfermedades cardíacas o pulmonares. Datos extraídos de: "https://lnkd.in/eD4vZKr".  
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/folium.png"  align=middle width=400pt height=500pt/></p>
+
+____________________________________________________________________________________________
+
+<h3>Análisis de la Caracterización del Empleo Público</h3>
+
+De lo que se puede ver, es que existe con respecto al clustering una anomalía, que indica la existencia de un pequeño cluster hecho por mujeres, que tiene el salario más alto del País, cercano a los 37 millones de pesos. Esta anomalía es también mostrada como un circulo amarillo, en el mapa. Por otro lado, se puede observar que los salarios más grandes pertenecen a unas minorías, mostrando desigualdad.
+
+Con respecto a las poblaciones, el sector publico tiende a dar empleo con mayor frecuencia a las personas con nivel de bachiller y especialización. La experiencia laboral, preferente va desde 1 a 10 años, con una edad entre los 50 y 62 años, siendo las mujeres más frecuentes en cargos públicos.
+
+La contratación ocurre con mayor frecuencia en las alcaldías, concejos y personerías, como entidades municipales es de esperar, siendo Bogotá, el de mayor demanda y mejor salario.
+
+Esta información es respecto a la caracterización de los servidores públicos registrados en SIGEP de la Rama Ejecutiva Orden Nacional (https://lnkd.in/dDqPbXY).
