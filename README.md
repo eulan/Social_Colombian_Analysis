@@ -10,4 +10,8 @@ En este análisis se usaron, métodos de fitting y no supervisados, extrayendo a
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/index.png" align=middle width=700pt height=500pt/></p>
 ____________________________________________________________________________________________
-<h3> Violencia de Pareja 2015 </h3>
+<h3> Trata de personas al extranjero </h3>
+
+La trata de personas es una problemática que se sigue presentando en nuestra Colombia. Por tanto, se hizo un pequeño análisis del como se esta ejecutando en nuestro País dicha practica, y una pequeña clasificación de los departamentos por un unsupervised method de ML. Los datos fueron obtenidos de "https://lnkd.in/dmwxK77". En primer lugar, en términos globales, los departamentos en lo que ocurre la mayor cantidad de eventos de trata de personas hacia el exterior es en el Valle del Cauca y Bogotá, desde el 2016 hasta el 2019. En lo que respecta a Bogotá, se observa un claro pico, que indica un aumento de esta practica los últimos dos años, por el lado del Valle del Cauca, la tendencia a sido la disminución, y en Antioquía la dinámica a sido más o menos constante. También se observa según el clustering que el comportamiento de Bogotá y la trata en el extranjero, tiene cierta similaridad.
+
+
