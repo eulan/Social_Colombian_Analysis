@@ -37,9 +37,9 @@ La contratación ocurre con mayor frecuencia en las alcaldías, concejos y perso
 Esta información es respecto a la caracterización de los servidores públicos registrados en SIGEP de la Rama Ejecutiva Orden Nacional (https://lnkd.in/dDqPbXY).
 
 
-<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c1.png" align=middle width=400pt height=500pt/></p>
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c1.png" align=middle width=400pt height=300pt/></p>
 
-<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c2.png" align=middle width=400pt height=500pt/></p>
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c2.png" align=middle width=400pt height=300pt/></p>
 
-<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c3.png" align=middle width=400pt height=500pt/></p>
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c3.png" align=middle width=400pt height=400pt/></p>
 
