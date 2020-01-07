@@ -43,3 +43,18 @@ Esta información es respecto a la caracterización de los servidores públicos 
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c3.png" align=middle width=400pt height=400pt/></p>
 
+____________________________________________________________________________________________
+
+<h3>Colombian Population</h3>
+
+
+The classical models of population consist of considering rate equation where the base approximation is exponential kind. However, the increase of Colombian population shows to other behavior, it is more, that is lineal due to the conflicting history.
+
+
+The most frequent population is between 0 to 24 years, implicating that Colombia is a young country, where the majority of people are men. After the 24 years the population experiments a transition (as phase transition), the female population begins to grow and overcomes the men.
+
+
+Finally, the data system can be separated in four clusters cleanly, where the most important population in Colombia are young. The older adults are more women than men, implicating that the women have a longest life, other possible explication is the armed conflict where the men are more affected.
+
+
+The information was obtained of "datos Abiertos Colombia" and the URL was "https://www.datos.gov.co/Mapas-Nacionales/PROYECCIONES-POBLACI-N-Poblaci-n-por-municipio-y-d/grgp-6bef".
