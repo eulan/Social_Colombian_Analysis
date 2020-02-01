@@ -58,3 +58,14 @@ Finally, the data system can be separated in four clusters cleanly, where the mo
 
 
 The information was obtained of "datos Abiertos Colombia" and the URL was "https://www.datos.gov.co/Mapas-Nacionales/PROYECCIONES-POBLACI-N-Poblaci-n-por-municipio-y-d/grgp-6bef".
+
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/pob1.png" align=middle width=400pt height=400pt/></p>
+
+
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/pob2.png" align=middle width=400pt height=400pt/></p>
+
+
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/pob3.png" align=middle width=400pt height=400pt/></p>
