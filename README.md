@@ -14,29 +14,31 @@
 ____________________________________________________________________________________________
 <h3> Trata de personas al extranjero </h3>
 
-La trata de personas es una problemática que se sigue presentando en nuestra Colombia. Por tanto, se hizo un pequeño análisis del como se esta ejecutando en nuestro País dicha practica, y una pequeña clasificación de los departamentos por un unsupervised method de ML. Los datos fueron obtenidos de "https://lnkd.in/dmwxK77". En primer lugar, en términos globales, los departamentos en lo que ocurre la mayor cantidad de eventos de trata de personas hacia el exterior es en el Valle del Cauca y Bogotá, desde el 2016 hasta el 2019. En lo que respecta a Bogotá, se observa un claro pico, que indica un aumento de esta practica los últimos dos años, por el lado del Valle del Cauca, la tendencia a sido la disminución, y en Antioquía la dinámica a sido más o menos constante. También se observa según el clustering que el comportamiento de Bogotá y la trata en el extranjero, tiene cierta similaridad.
+<p>La trata de personas es una problemática que se sigue presentando en nuestra Colombia. Por tanto, se hizo un pequeño análisis del como se esta ejecutando en nuestro País dicha practica, y una pequeña clasificación de los departamentos por un unsupervised method de ML. Los datos fueron obtenidos de "https://lnkd.in/dmwxK77". En primer lugar, en términos globales, los departamentos en lo que ocurre la mayor cantidad de eventos de trata de personas hacia el exterior es en el Valle del Cauca y Bogotá, desde el 2016 hasta el 2019. En lo que respecta a Bogotá, se observa un claro pico, que indica un aumento de esta practica los últimos dos años, por el lado del Valle del Cauca, la tendencia a sido la disminución, y en Antioquía la dinámica a sido más o menos constante. También se observa según el clustering que el comportamiento de Bogotá y la trata en el extranjero, tiene cierta similaridad.</p>
 
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/trata_ext.png" align=middle width=800pt height=500pt/></p>
+
+<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/trata.py"> link</a> </h4>
 ____________________________________________________________________________________________
 <h3> Sobre las zonas contaminandas de Colombia </h3>
 
 
-Visualización  de los lugares más contaminados del País. El material, con un aporte más importante es el PM10, el cual afecta directamente la salud, produciendo enfermedades cardíacas o pulmonares. Datos extraídos de: "https://lnkd.in/eD4vZKr".  
+<p>Visualización  de los lugares más contaminados del País. El material, con un aporte más importante es el PM10, el cual afecta directamente la salud, produciendo enfermedades cardíacas o pulmonares. Datos extraídos de: "https://lnkd.in/eD4vZKr".</p>  
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/folium.png"  align=middle width=400pt height=500pt/></p>
-
+<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/folium.py"> link</a> </h4>
 ____________________________________________________________________________________________
 
 <h3>Análisis de la Caracterización del Empleo Público</h3>
 
-De lo que se puede ver, es que existe con respecto al clustering una anomalía, que indica la existencia de un pequeño cluster hecho por mujeres, que tiene el salario más alto del País, cercano a los 37 millones de pesos. Esta anomalía es también mostrada como un circulo amarillo, en el mapa. Por otro lado, se puede observar que los salarios más grandes pertenecen a unas minorías, mostrando desigualdad.
+<p>De lo que se puede ver, es que existe con respecto al clustering una anomalía, que indica la existencia de un pequeño cluster hecho por mujeres, que tiene el salario más alto del País, cercano a los 37 millones de pesos. Esta anomalía es también mostrada como un circulo amarillo, en el mapa. Por otro lado, se puede observar que los salarios más grandes pertenecen a unas minorías, mostrando desigualdad.</p>
 
-Con respecto a las poblaciones, el sector publico tiende a dar empleo con mayor frecuencia a las personas con nivel de bachiller y especialización. La experiencia laboral, preferente va desde 1 a 10 años, con una edad entre los 50 y 62 años, siendo las mujeres más frecuentes en cargos públicos.
+<p>Con respecto a las poblaciones, el sector publico tiende a dar empleo con mayor frecuencia a las personas con nivel de bachiller y especialización. La experiencia laboral, preferente va desde 1 a 10 años, con una edad entre los 50 y 62 años, siendo las mujeres más frecuentes en cargos públicos.</p>
 
-La contratación ocurre con mayor frecuencia en las alcaldías, concejos y personerías, como entidades municipales es de esperar, siendo Bogotá, el de mayor demanda y mejor salario.
+<p>La contratación ocurre con mayor frecuencia en las alcaldías, concejos y personerías, como entidades municipales es de esperar, siendo Bogotá, el de mayor demanda y mejor salario.</p>
 
-Esta información es respecto a la caracterización de los servidores públicos registrados en SIGEP de la Rama Ejecutiva Orden Nacional (https://lnkd.in/dDqPbXY).
+<p>Esta información es respecto a la caracterización de los servidores públicos registrados en SIGEP de la Rama Ejecutiva Orden Nacional (https://lnkd.in/dDqPbXY).</p>
 
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c1.png" align=middle width=400pt height=300pt/></p>
@@ -45,21 +47,23 @@ Esta información es respecto a la caracterización de los servidores públicos 
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/c3.png" align=middle width=400pt height=400pt/></p>
 
+<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/caracterizacion.py"> link</a> </h4>
+
 ____________________________________________________________________________________________
 
 <h3>Colombian Population</h3>
 
 
-The classical models of population consist of considering rate equation where the base approximation is exponential kind. However, the increase of Colombian population shows to other behavior, it is more, that is lineal due to the conflicting history.
+<p>The classical models of population consist of considering rate equation where the base approximation is exponential kind. However, the increase of Colombian population shows to other behavior, it is more, that is lineal due to the conflicting history.</p>
 
 
-The most frequent population is between 0 to 24 years, implicating that Colombia is a young country, where the majority of people are men. After the 24 years the population experiments a transition (as phase transition), the female population begins to grow and overcomes the men.
+<p>The most frequent population is between 0 to 24 years, implicating that Colombia is a young country, where the majority of people are men. After the 24 years the population experiments a transition (as phase transition), the female population begins to grow and overcomes the men.</p>
 
 
-Finally, the data system can be separated in four clusters cleanly, where the most important population in Colombia are young. The older adults are more women than men, implicating that the women have a longest life, other possible explication is the armed conflict where the men are more affected.
+<p>Finally, the data system can be separated in four clusters cleanly, where the most important population in Colombia are young. The older adults are more women than men, implicating that the women have a longest life, other possible explication is the armed conflict where the men are more affected.>/p>
 
 
-The information was obtained of "datos Abiertos Colombia" and the URL was "https://www.datos.gov.co/Mapas-Nacionales/PROYECCIONES-POBLACI-N-Poblaci-n-por-municipio-y-d/grgp-6bef".
+<p>The information was obtained of "datos Abiertos Colombia" and the URL was "https://www.datos.gov.co/Mapas-Nacionales/PROYECCIONES-POBLACI-N-Poblaci-n-por-municipio-y-d/grgp-6bef".</p>
 
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/pob1.png" align=middle width=400pt height=400pt/></p>
@@ -71,3 +75,15 @@ The information was obtained of "datos Abiertos Colombia" and the URL was "https
 
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/pob3.png" align=middle width=400pt height=400pt/></p>
+
+<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/poblacion.ipynb"> link</a> </h4>
+
+____________________________________________________________________________________________
+
+<h3>Análisis de las obras de Gabriel García Márquez</h3>
+
+<h4>"Cien años de soledad", "El amor en los tiempos del cólera", "Del amor y otros demonios" y "Crónicas de una muerte anunciada"</h4>
+
+<p>El Machine Learning es una herramienta estadística muy interesante que nos ha permitido incluso ver los patrones detras del lenguaje humano, hoy se va a utilizar un modelo pre-trained de trabajos previos para la clasificación de sentimientos de estas cuatro importantes novelas del famoso autor ¿Qué crees que pasaría un computador al estas obras? ¿Pensaría que son obras muy positivas o negativas? Bueno, hoy vamos a saberlo.</p>
+
+
