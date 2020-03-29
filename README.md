@@ -104,4 +104,4 @@ ________________________________________________________________________________
 
 <p>La palabras más frecuentes además de los conectores, son los nombres de sus personales.</p>
 
-<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/poblacion.ipynb"> link</a> </h4>
+<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/GGM.ipynb"> link</a> </h4>
