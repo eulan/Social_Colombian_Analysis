@@ -86,4 +86,12 @@ ________________________________________________________________________________
 
 <p>El Machine Learning es una herramienta estadística muy interesante que nos ha permitido incluso ver los patrones detras del lenguaje humano, hoy se va a utilizar un modelo pre-trained de trabajos previos para la clasificación de sentimientos de estas cuatro importantes novelas del famoso autor ¿Qué crees que pasaría un computador al estas obras? ¿Pensaría que son obras muy positivas o negativas? Bueno, hoy vamos a saberlo.</p>
 
+<h5>Aplicación de modelos de analysis sentiment a obras de Gabo</h5>
 
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/model_appCien%20a%C3%B1os%20de%20soledad.png" align=middle width=400pt height=400pt/></p>
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/model_appCr%C3%B3nicas%20de%20una%20muerte%20anunciada.png" align=middle width=400pt height=400pt/></p>
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/model_appDel%20amor%20y%20otros%20demonios.png" align=middle width=400pt height=400pt/></p>
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/model_appEl%20amor%20en%20los%20tiempos%20del%20c%C3%B3lera.png" align=middle width=400pt height=400pt/></p>
