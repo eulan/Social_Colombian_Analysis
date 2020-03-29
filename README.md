@@ -60,7 +60,7 @@ ________________________________________________________________________________
 <p>The most frequent population is between 0 to 24 years, implicating that Colombia is a young country, where the majority of people are men. After the 24 years the population experiments a transition (as phase transition), the female population begins to grow and overcomes the men.</p>
 
 
-<p>Finally, the data system can be separated in four clusters cleanly, where the most important population in Colombia are young. The older adults are more women than men, implicating that the women have a longest life, other possible explication is the armed conflict where the men are more affected.>/p>
+<p>Finally, the data system can be separated in four clusters cleanly, where the most important population in Colombia are young. The older adults are more women than men, implicating that the women have a longest life, other possible explication is the armed conflict where the men are more affected.</p>
 
 
 <p>The information was obtained of "datos Abiertos Colombia" and the URL was "https://www.datos.gov.co/Mapas-Nacionales/PROYECCIONES-POBLACI-N-Poblaci-n-por-municipio-y-d/grgp-6bef".</p>
@@ -103,3 +103,5 @@ ________________________________________________________________________________
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/wordcloud.png" align=middle width=400pt height=400pt/></p>
 
 <p>La palabras más frecuentes además de los conectores, son los nombres de sus personales.</p>
+
+<h4>Ver código: <a href = "https://github.com/eulan/Social_Colombian_Analysis/blob/master/poblacion.ipynb"> link</a> </h4>
