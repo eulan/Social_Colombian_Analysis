@@ -95,3 +95,11 @@ ________________________________________________________________________________
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/model_appDel%20amor%20y%20otros%20demonios.png" align=middle width=400pt height=400pt/></p>
 
 <p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/model_appEl%20amor%20en%20los%20tiempos%20del%20c%C3%B3lera.png" align=middle width=400pt height=400pt/></p>
+
+<p>Los modelos clasifican las obras de Gabo como neutras o negativas, lo que es lógico por su alto contenido trágico.</p>
+
+<h5>Wordclouds</h5>
+
+<p align="center"><img src="https://github.com/eulan/Social_Colombian_Analysis/blob/master/wordcloud.png" align=middle width=400pt height=400pt/></p>
+
+<p>La palabras más frecuentes además de los conectores, son los nombres de sus personales.</p>
